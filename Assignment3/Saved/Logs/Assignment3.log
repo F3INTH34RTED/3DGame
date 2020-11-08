@@ -1303,3 +1303,114 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.08-20.47.54:352][332]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.08-20.47.54:352][332]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
 [2020.11.08-20.47.54:352][332]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Hisham_BuiltData.Hisham_BuiltData
+[2020.11.08-20.49.10:940][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.11.08-20.49.10:967][776]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/HishamA5CB7808464FA50CCEBD60BE36D94E7E.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham.umap'
+[2020.11.08-20.49.11:069][776]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham_BuiltDataCF5C295F4571BDFE04F0D397F9726192.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham_BuiltData.uasset'
+[2020.11.08-20.49.11:088][776]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.08-20.49.11:088][776]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
+[2020.11.08-20.49.11:088][776]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Hisham_BuiltData.Hisham_BuiltData
+[2020.11.08-20.49.54:539][ 12]LogBlueprint: Warning: [Compiler BTR] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.11.08-20.49.54:626][ 12]LogStaticMesh: Building static mesh BTR80A_Turret_edited_BTR_80_B...
+[2020.11.08-20.49.54:703][ 12]LogStaticMesh: Built static mesh [0.08s] /Game/Local/Hisham/BTR80A_Edited/Meshes/BTR80A_Turret_edited_BTR_80_B.BTR80A_Turret_edited_BTR_80_B
+[2020.11.08-20.49.55:309][ 12]LogSkeletalMesh: Building Skeletal Mesh BTR80A_MoveableTurret_BTR_80_A...
+[2020.11.08-20.49.57:481][ 12]LogSkeletalMesh: Section 0: 48009 vertices, 11 active bones
+[2020.11.08-20.49.57:481][ 12]LogSkeletalMesh: Section 1: 139 vertices, 1 active bones
+[2020.11.08-20.49.57:481][ 12]LogSkeletalMesh: Section 2: 50 vertices, 1 active bones
+[2020.11.08-20.49.57:481][ 12]LogSkeletalMesh: Section 3: 67 vertices, 1 active bones
+[2020.11.08-20.49.57:481][ 12]LogSkeletalMesh: Section 4: 40 vertices, 1 active bones
+[2020.11.08-20.49.57:482][ 12]LogSkeletalMesh: Section 5: 4992 vertices, 8 active bones
+[2020.11.08-20.49.57:491][ 12]LogSkeletalMesh: Section 0: Material=0, 54152 triangles
+[2020.11.08-20.49.57:491][ 12]LogSkeletalMesh: Section 1: Material=1, 224 triangles
+[2020.11.08-20.49.57:491][ 12]LogSkeletalMesh: Section 2: Material=2, 64 triangles
+[2020.11.08-20.49.57:492][ 12]LogSkeletalMesh: Section 3: Material=3, 96 triangles
+[2020.11.08-20.49.57:492][ 12]LogSkeletalMesh: Section 4: Material=4, 36 triangles
+[2020.11.08-20.49.57:492][ 12]LogSkeletalMesh: Section 5: Material=5, 8832 triangles
+[2020.11.08-20.49.57:658][ 12]LogSkeletalMesh: Built Skeletal Mesh [2.35s] /Game/Local/Hisham/BTR80A_Edited/Meshes/BTR80A_MoveableTurret_BTR_80_A.BTR80A_MoveableTurret_BTR_80_A
+[2020.11.08-20.49.57:660][ 12]LogMaterial: Display: Missing cached shader map for material wheel_btr80, compiling. 
+[2020.11.08-20.49.57:734][ 12]LogStaticMesh: Building static mesh BTR80A_Turret_edited_BTR_80_C...
+[2020.11.08-20.49.57:736][ 12]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2020.11.08-20.49.57:736][ 12]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2020.11.08-20.49.57:736][ 12]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2020.11.08-20.49.57:736][ 12]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.11.08-20.49.57:736][ 12]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.11.08-20.49.57:736][ 12]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.11.08-20.49.57:736][ 12]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.11.08-20.49.57:858][ 12]LogStaticMesh: Built static mesh [0.12s] /Game/Local/Hisham/BTR80A_Edited/Meshes/BTR80A_Turret_edited_BTR_80_C.BTR80A_Turret_edited_BTR_80_C
+[2020.11.08-20.49.57:879][ 12]LogMaterial: Display: Missing cached shader map for material E_Base, compiling. 
+[2020.11.08-20.49.57:908][ 12]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.11.08-20.49.59:694][ 83]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.11.08-20.50.01:409][148]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.11.08-20.50.02:144][175]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.11.08-20.50.02:940][206]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.11.08-20.50.03:068][211]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.11.08-20.50.03:149][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.11.08-20.50.03:615][231]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.11.08-20.50.03:745][236]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.11.08-20.50.03:907][242]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.11.08-20.50.03:998][246]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.11.08-20.50.17:956][ 73]Cmd: DELETE
+[2020.11.08-20.50.17:956][ 73]Cmd: ACTOR DELETE
+[2020.11.08-20.50.17:973][ 73]LogEditorActor: Deleted Actor: BTR_C
+[2020.11.08-20.50.18:006][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.11.08-20.50.18:014][ 73]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.11.08-20.50.20:909][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.11.08-20.50.20:936][244]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/HishamDF0ACB6D4429637B75BAA78605D204E6.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham.umap'
+[2020.11.08-20.50.21:037][244]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham_BuiltData8F0CC1184521F86B07F55999966B39C0.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham_BuiltData.uasset'
+[2020.11.08-20.50.21:058][244]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.08-20.50.21:058][244]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
+[2020.11.08-20.50.21:058][244]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Hisham_BuiltData.Hisham_BuiltData
+[2020.11.08-20.50.46:269][752]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2020.11.08-20.50.46:957][786]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2020.11.08-20.50.48:034][848]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.08-20.50.50:202][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.11.08-20.50.57:934][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.11.08-20.50.57:968][432]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham9B927BB24A4EE4F988572D89C8D910E7.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham.umap'
+[2020.11.08-20.50.58:062][432]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham_BuiltDataD97C19EE457AA06257146C984D2481D2.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham_BuiltData.uasset'
+[2020.11.08-20.50.58:079][432]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.08-20.50.58:079][432]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
+[2020.11.08-20.50.58:079][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Hisham_BuiltData.Hisham_BuiltData
+[2020.11.08-20.51.29:255][285]Cmd: DELETE
+[2020.11.08-20.51.29:255][285]Cmd: ACTOR DELETE
+[2020.11.08-20.51.29:258][285]LogEditorActor: Deleted Actor: BTR_C
+[2020.11.08-20.51.29:288][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.11.08-20.51.29:292][285]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.11.08-20.51.33:965][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.08-20.51.33:993][559]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/HishamBFDA1D8342E5EDF908DBC28BBAE95AF3.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham.umap'
+[2020.11.08-20.51.34:092][559]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham_BuiltData56AB918E40F65AEE0041F7A2943E829C.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham_BuiltData.uasset'
+[2020.11.08-20.51.34:108][559]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.08-20.51.34:109][559]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
+[2020.11.08-20.51.34:109][559]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Hisham_BuiltData.Hisham_BuiltData
+[2020.11.08-20.51.50:305][526]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.08-20.52.27:978][345]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.11.08-20.52.28:110][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.08-20.52.28:857][363]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/ThirdPersonCharacter316E828E4E2B1BDB08A875BD537EADA3.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.08-20.52.28:885][363]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.11.08-20.52.28:885][363]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.08-20.52.50:690][613]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Local/Hisham/BTR80A_Edited/BTR.BTR
+[2020.11.08-20.52.55:193][847]BlueprintLog: New page: Compile BTR
+[2020.11.08-20.52.55:199][847]LogBlueprint: Warning: [Compiler BTR] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.11.08-20.52.55:255][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.11.08-20.53.21:108][343]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.08-20.53.21:114][343]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.08-20.53.21:921][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.11.08-20.53.21:959][385]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham0F1370C840B72F34074090861BFD211E.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham.umap'
+[2020.11.08-20.53.22:055][385]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham_BuiltDataB7F82B914F56328C751D55900C2FE7BF.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham_BuiltData.uasset'
+[2020.11.08-20.53.22:074][385]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.08-20.53.22:074][385]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
+[2020.11.08-20.53.22:074][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Hisham_BuiltData.Hisham_BuiltData
+[2020.11.08-20.53.57:452][467]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.08-20.53.57:460][467]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.08-20.53.58:149][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.11.08-20.53.58:178][503]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham8877451A4ABBAB35B3B1A3B9F62A2301.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham.umap'
+[2020.11.08-20.53.58:261][503]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Hisham_BuiltDataB40E46B6482D3467CD6523AE061FE005.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/Hisham_BuiltData.uasset'
+[2020.11.08-20.53.58:275][503]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.08-20.53.58:275][503]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
+[2020.11.08-20.53.58:275][503]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Hisham_BuiltData.Hisham_BuiltData
+[2020.11.08-20.54.01:773][711]BlueprintLog: New page: Compile BTR
+[2020.11.08-20.54.01:818][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.11.08-20.54.02:297][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Local/Hisham/BTR80A_Edited/BTR" FILE="../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/Local/Hisham/BTR80A_Edited/BTR.uasset" SILENT=true
+[2020.11.08-20.54.02:327][734]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/BTRE9B0E33C4502E76DF80C81BC08951344.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/Local/Hisham/BTR80A_Edited/BTR.uasset'
+[2020.11.08-20.54.02:344][734]AssetCheck: New page: Asset Save: BTR
+[2020.11.08-20.54.02:344][734]LogContentValidation: Display: Validating Blueprint /Game/Local/Hisham/BTR80A_Edited/BTR.BTR
+[2020.11.08-20.54.24:808][ 73]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-20.54.24:808][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
