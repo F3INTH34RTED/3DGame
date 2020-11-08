@@ -809,3 +809,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.08-20.35.19:575][640]LogFileHelpers: Saving map 'Hisham' took 0.186
 [2020.11.08-20.35.19:586][640]AssetCheck: New page: Asset Save: Hisham
 [2020.11.08-20.35.19:586][640]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Hisham.Hisham
+[2020.11.08-20.43.14:518][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
