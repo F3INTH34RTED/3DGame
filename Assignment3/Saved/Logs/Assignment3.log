@@ -1352,3 +1352,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.08-21.17.09:270][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Local/Hisham/BTR80A_Edited/Turret/Turret_Gun]
 [2020.11.08-21.17.09:328][335]LogSavePackage: Moving '../../../../../../Users/Hisham/Documents/UnrealProjects/CSCI346_Ass3_V2/3DGame/Assignment3/Saved/Turret_Gun_Auto21556DCFB491E19CAF3E7828E1A5920DD.tmp' to '../../../../../../Users/Hisham/Documents/UnrealProjects/CSCI346_Ass3_V2/3DGame/Assignment3/Saved/Autosaves/Game/Local/Hisham/BTR80A_Edited/Turret/Turret_Gun_Auto2.uasset'
 [2020.11.08-21.17.09:328][335]LogFileHelpers: Auto-saving content packages took 0.077
+[2020.11.08-21.17.46:521][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.08-21.17.48:432][446]LogSlate: Window 'Save Content' being destroyed
+[2020.11.08-21.17.48:468][446]LogSavePackage: Moving '../../../../../../Users/Hisham/Documents/UnrealProjects/CSCI346_Ass3_V2/3DGame/Assignment3/Saved/Turret_Gun65D1546D4551F78EC5DD14918A9F2B1C.tmp' to '../../../../../../Users/Hisham/Documents/UnrealProjects/CSCI346_Ass3_V2/3DGame/Assignment3/Content/Local/Hisham/BTR80A_Edited/Turret/Turret_Gun.uasset'
+[2020.11.08-21.17.48:611][446]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.48:611][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.08-21.17.48:725][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.08-21.17.48:725][446]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.48:725][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.08-21.17.48:775][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.08-21.17.48:775][446]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.48:775][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.08-21.17.48:846][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.08-21.17.48:846][446]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.48:846][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.08-21.17.48:906][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.08-21.17.48:906][446]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.48:906][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.08-21.17.48:972][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.08-21.17.48:972][446]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.48:972][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.08-21.17.49:023][446]LogSlate: Window 'ZombieAI' being destroyed
+[2020.11.08-21.17.49:027][446]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.08-21.17.49:027][446]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.49:027][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.08-21.17.49:215][446]LogSlate: Window 'Message Log' being destroyed
+[2020.11.08-21.17.49:218][446]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.08-21.17.49:266][446]LogSlate: Window 'Assignment3 - Unreal Editor' being destroyed
+[2020.11.08-21.17.49:280][446]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.08-21.17.50:162][446]AssetCheck: New page: Asset Save: Turret_Gun
+[2020.11.08-21.17.50:164][446]LogContentValidation: Display: Validating Blueprint /Game/Local/Hisham/BTR80A_Edited/Turret/Turret_Gun.Turret_Gun
+[2020.11.08-21.17.50:185][447]Cmd: QUIT_EDITOR
+[2020.11.08-21.17.50:185][447]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.08-21.17.50:409][447]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.08-21.17.50:905][447]LogExit: Preparing to exit.
+[2020.11.08-21.17.52:233][447]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:238][447]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:243][447]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:247][447]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:253][447]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:261][447]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:270][447]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:275][447]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:279][447]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:284][447]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:288][447]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:294][447]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:298][447]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:308][447]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:314][447]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:319][447]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:324][447]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:328][447]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:333][447]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:341][447]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:347][447]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:360][447]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:537][447]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.08-21.17.52:748][447]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.08-21.17.52:749][447]LogExit: Editor shut down
+[2020.11.08-21.17.52:750][447]LogExit: Transaction tracking system shut down
+[2020.11.08-21.17.53:848][447]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001DADBE1A9C0), frame # 164447
+[2020.11.08-21.17.53:848][447]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DADBCA2AC0), frame # 164447
+[2020.11.08-21.17.53:970][447]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DADBCDDC00), frame # 164447
