@@ -2626,3 +2626,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.09-16.55.30:096][489]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.09-16.55.30:096][489]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu/MainMenu.MainMenu
 [2020.11.09-16.55.30:096][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/MainMenu/MainMenu_BuiltData.MainMenu_BuiltData
+[2020.11.09-17.08.55:901][693]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.09-17.08.55:909][693]LogSlate: Window 'Project Settings' being destroyed
+[2020.11.09-17.08.57:317][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.11.09-17.08.57:355][767]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/MainMenu29D69B38462D0640F148B59A418A2C03.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/MainMenu/MainMenu.umap'
+[2020.11.09-17.08.57:461][767]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/MainMenu_BuiltDataF1C66CC747477C680A37BE9CD1DF6E0D.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/MainMenu/MainMenu_BuiltData.uasset'
+[2020.11.09-17.08.57:480][767]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.09-17.08.57:480][767]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu/MainMenu.MainMenu
+[2020.11.09-17.08.57:480][767]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/MainMenu/MainMenu_BuiltData.MainMenu_BuiltData
+[2020.11.09-17.08.57:938][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
