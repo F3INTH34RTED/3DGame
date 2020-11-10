@@ -1329,3 +1329,7 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get SaveGameObject
 [2020.11.10-17.10.24:961][506]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/MainMenuSelect06FA797C4A065E27B3C804A575DE2524.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Content/ThirdPersonBP/Maps/MainMenu/MainMenuSelect.uasset'
 [2020.11.10-17.10.24:977][506]AssetCheck: New page: Asset Save: MainMenuSelect
 [2020.11.10-17.10.24:977][506]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Maps/MainMenu/MainMenuSelect.MainMenuSelect
+[2020.11.10-17.10.59:274][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.11.10-17.10.59:314][ 64]LogSavePackage: Moving '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/MainMenu_Auto12A06170A4F4562DF7C6E7EA9D72FD866.tmp' to '../../../../../../../Keshav/UOWD/346/Assignments/3DGame/Assignment3/Saved/Autosaves/Game/ThirdPersonBP/Maps/MainMenu/MainMenu_Auto1.umap'
+[2020.11.10-17.10.59:315][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainMenu/MainMenu' took 0.072
+[2020.11.10-17.10.59:315][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
